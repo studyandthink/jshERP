@@ -21,7 +21,7 @@ import java.util.Map;
 import static com.jsh.erp.utils.ResponseJsonUtil.returnJson;
 
 /**
- * @author ji_sheng_hua 华夏ERP
+ * @author ji_sheng_hua 鲜花进销存
  */
 @RestController
 @RequestMapping(value = "/userBusiness")
